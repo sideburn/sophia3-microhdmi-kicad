@@ -38,5 +38,5 @@ Part of the XEBook board family:
 - [fujinet-xebook-kicad](https://github.com/sideburn/fujinet-xebook-kicad) — FujiNet main board
 - [fujinet-xebook-sd-kicad](https://github.com/sideburn/fujinet-xebook-sd-kicad) — SD card board
 - [fujinet-xebook-led-kicad](https://github.com/sideburn/fujinet-xebook-led-kicad) — LED status board
-- [fujinet-xebook-buttonbar-kicad](https://github.com/sideburn/fujinet-xebook-buttonbar-kicad) — button bar
+- [xebook-buttonbar-kicad](https://github.com/sideburn/xebook-buttonbar-kicad) — button bar
 - `xebook-psu-easyeda` *(private)* — power and audio manager
