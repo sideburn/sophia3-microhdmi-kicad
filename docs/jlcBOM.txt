@@ -1,0 +1,6 @@
+JLC part # for micro hdmi: HYC23-HDMID19-650
+
+TE connector:
+	https://www.te.com/en/product-1-215079-6.html
+	TE Internal #: 1-215079-6
+	Micro-MaTch - 16P
